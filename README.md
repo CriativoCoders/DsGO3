@@ -10,3 +10,11 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+- usar galerias do material icons, utilizando do componente camareas
+- material UI image list
+- estilizar o DSGO
+- Mudar as perguntas (Missoes)
+- Guiar as figurinhas
+- colocar ARJA
+-quer que a câmera tire fotos e elas apareçam imediatamente na galeria abaixo
