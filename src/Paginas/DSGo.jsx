@@ -1,5 +1,5 @@
 import { Outlet } from 'react-router-dom';
-import { Menu } from '../Componentes/Menu';
+import { Menu } from '../Components/Menu';
 
 export function DSGo(){
     return(

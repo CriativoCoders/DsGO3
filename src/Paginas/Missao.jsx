@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { missoes } from '../Dados/dadosMissao';
-import { MissaoCard } from '../Componentes/MissaoCard';
-import { MissaoModal } from '../Componentes/MissaoModal';
+import { MissaoCard } from '../Components/MissaoCard';
+import { MissaoModal } from '../Components/MissaoModal';
 
 export function Missao() {
   const [missaoSelecionada, setMissaoSelecionada] = useState(null);
