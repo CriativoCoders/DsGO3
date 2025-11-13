@@ -17,4 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 - Mudar as perguntas (Missoes)
 - Guiar as figurinhas
 - colocar ARJA
--quer que a câmera tire fotos e elas apareçam imediatamente na galeria abaixo
+
+## Instalar o Material-UI (Recomendado)
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
